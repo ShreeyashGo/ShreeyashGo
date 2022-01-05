@@ -1,16 +1,28 @@
-<pre>
-<img src="./S_SVG.png">
-</pre>
-<pre>
-- 👋 Hi, I’m @ShreeyashGo a.k.a. Shreeyash Gowaikar
-- 🏛️ I am currently a Computer Science Sophomore at BITS Pilani, Goa Campus
-- 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Reinforcement learning and its applications in the field of BCI!
-- 🤔 If you don't find me coding or studying, I will mostly be stargazing, doing photography or sleeping.
-</pre>
-<pre>📫 If you want to connect,
+<table style="border:none">
+  <tr>
+    <td>
+      <img src="./S_SVG.png" width="100">
+    </td>
+    <td style="width:200">
+      <div style="background-color: white">
+- 👋 Hi, I’m @ShreeyashGo a.k.a. Shreeyash Gowaikar<br>
+- 🏛️ I am currently a Computer Science Sophomore at BITS Pilani, Goa Campus<br>
+- 👀 I’m interested in Machine Learning and Artificial Intelligence<br>
+- 🌱 I’m currently learning Reinforcement learning and its applications in the field of BCI!<br>
+- 🤔 If you don't find me coding or studying, I will mostly be stargazing, doing photography or sleeping<br>
+    <br></div>
+    <div>📫 If you want to connect,<br>
 <a href='shreeyashgo@gmail.com'>✉️ Mail me!</a> | connect on discord: SMG287#7708
-</pre>
+</div>
+    </td>![S_SVG](https://user-images.githubusercontent.com/77532564/148255997-71f89370-5128-489c-b2d8-2336f1c822f6.png)
+
+    <td>
+        <img src="./S_SVG.png" width="100">
+    </td>
+  </tr>
+ </table>
+
+
 
 <!---
 ShreeyashGo/ShreeyashGo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
