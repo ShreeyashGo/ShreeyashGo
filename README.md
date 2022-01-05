@@ -14,8 +14,7 @@
     <div>📫 If you want to connect,<br>
 <a href='shreeyashgo@gmail.com'>✉️ Mail me!</a> | connect on discord: SMG287#7708
 </div>
-    </td>![S_SVG](https://user-images.githubusercontent.com/77532564/148255997-71f89370-5128-489c-b2d8-2336f1c822f6.png)
-
+    </td>
     <td>
         <img src="./S_SVG.png" width="100">
     </td>
