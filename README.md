@@ -1,8 +1,8 @@
 <table style="border:none">
   <tr>
-    <td>
+<!--     <td>
       <img src="./S_SVG.png" width="100">
-    </td>
+    </td> -->
     <td style="width:200">
       <div style="background-color: white">
 - 👋 Hi, I’m @ShreeyashGo a.k.a. Shreeyash Gowaikar<br>
@@ -15,9 +15,9 @@
 <a href='shreeyashgo@gmail.com'>✉️ Mail me!</a> | connect on discord: SMG287#7708
 </div>
     </td>
-    <td>
+<!--     <td>
         <img src="./S_SVG.png" width="100">
-    </td>
+    </td> -->
   </tr>
  </table>
 
