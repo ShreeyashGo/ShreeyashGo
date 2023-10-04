@@ -6,9 +6,9 @@
     <td style="width:200">
       <div style="background-color: white">
 - 👋 Hi, I’m @ShreeyashGo a.k.a. Shreeyash Gowaikar<br>
-- 🏛️ I am currently a Computer Science Sophomore at BITS Pilani, Goa Campus<br>
+- 🏛️ I am currently a Computer Science Senior at BITS Pilani, Goa Campus<br>
 - 👀 I’m interested in Machine Learning and Artificial Intelligence<br>
-- 🌱 I’m currently learning Reinforcement learning and its applications in the field of BCI!<br>
+- 🌱 I’m currently Researching Generative AI for Computer Vision and Transformer Networks!!<br>
 - 🤔 If you don't find me coding or studying, I will mostly be stargazing, doing photography or sleeping<br>
     <br></div>
     <div>📫 If you want to connect,<br>
